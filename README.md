@@ -1,9 +1,9 @@
-# Beatrice_W
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Beatrice, and I'm a Aspiring Data Scientist.</p>
+<p align="left">My name is Beatrice, and I'm an Aspiring Data Scientist.</p>
 
 ###
 
