@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨Passionate about leveraging data to drive insights and solve complex problems<br>📚 I'm currently honing my skills in Data Science & Machine Learning, <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨Passionate about leveraging data to drive insights and solve complex problems<br>📚 I'm currently honing my skills in Data Science & Machine Learning, <br>🎯 Goals: Apply my knowledge and contribute to data-driven projects that make a meaningful impact<br>🎲 Fun fact:  You can find me exploring the great outdoors and capturing stunning landscape photography</p>
 
 ###
 
