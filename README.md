@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Beatrice, and I'm an Aspiring Data Scientist.</p>
+<p align="left">My name is Beatrice, and I'm an Data Scientist.</p>
 
 ###
 
