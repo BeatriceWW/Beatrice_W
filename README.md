@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Beatrice, and I'm an Data Scientist.</p>
+<p align="left">My name is Beatrice, and I'm a Data Scientist.</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨Passionate about leveraging data to drive insights and solve complex problems<br>📚 I'm currently honing my skills in Data Science & Machine Learning, <br>🎯 Goals: Apply my knowledge and contribute to data-driven projects that make a meaningful impact<br>🎲 Fun fact:  You can find me exploring the great outdoors and capturing stunning landscape photography</p>
+<p align="left">✨Passionate about leveraging data to drive insights and solve complex problems<br>📚 I'm currently honing my skills in Data Science & Machine Learning, <br>🎯 Goals: Apply my knowledge and contribute to data-driven projects that make a meaningful impact<br>🎲 Fun fact: Staying active by bike riding. It's my go-to hobby for adventure and fitness! </p>
 
 ###
 
